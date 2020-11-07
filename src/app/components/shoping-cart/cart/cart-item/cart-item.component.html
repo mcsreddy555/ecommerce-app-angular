@@ -1,0 +1,23 @@
+<!-- <div class="cart-item">
+    <span><img height="20%" width="10%" [src]="cartItem.productImgUrl"></span>
+
+    <span class="mr-4">{{cartItem.productName}}</span>   * 
+    <span class="mr-2">{{cartItem.qty}}</span> : 
+    <strong class="mr-4">{{(cartItem.qty*cartItem.price) | currency:"INR"}} </strong>
+</div> -->
+<div class="cart-item row">
+    <div class="col">
+        <span><img height="100%" width="50%" [src]="cartItem.productImgUrl"></span>
+    </div>
+    <div class="col">
+        <span class="mr-4">{{cartItem.productName}}</span> 
+    </div>
+    <div class="col">
+        *<span class="mr-2">{{cartItem.qty}}</span> : 
+    </div>
+    <div class="col">
+        <strong class="mr-4">{{(cartItem.qty*cartItem.price) | currency:"INR"}} </strong>
+    </div>
+</div>
+
+

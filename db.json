@@ -1,0 +1,188 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone XR",
+      "description": "Liquid Retina HD display 6.1-inch | 12MP Wide camera |Enabled by TrueDepth camera for facial recognition |",
+      "imageUrl": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-xr-blue-select-201809?wid=470&hei=556&fmt=png-alpha&.v=1565209264208",
+      "price": 41000
+    },
+    {
+      "id": 2,
+      "name": "iPhone SE",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "imageUrl": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-xr-blue-select-201809?wid=470&hei=556&fmt=png-alpha&.v=1565209264208",
+      "price": 44600
+    },
+    {
+      "id": 3,
+      "name": "iPhone 11",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "imageUrl": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone11-red-select-2019_GEO_EMEA?wid=470&hei=556&fmt=png-alpha&.v=1567021767076",
+      "price": 45000
+    },
+    {
+      "id": 4,
+      "name": "iPhone 12",
+      "description": "nventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. ",
+      "imageUrl": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-12-family-select-2020?wid=441&amp;hei=529&amp;fmt=jpeg&amp;qlt=95&amp;op_usm=0.5,0.5&amp;.v=1601844983000",
+      "price": 55000
+    },
+    {
+      "id": 5,
+      "name": "iPhone 12 Pro",
+      "description": "nventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. ",
+      "imageUrl": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-12-pro-family-hero?wid=463&amp;hei=556&amp;fmt=jpeg&amp;qlt=95&amp;op_usm=0.5,0.5&amp;.v=1602088412000",
+      "price": 69000
+    },
+    {
+      "id": 6,
+      "name": "iPhone 12 Mini",
+      "description": "nventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. ",
+      "imageUrl": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-12-mini-red-select-2020?wid=470&hei=556&fmt=png-alpha&.v=1601830931000",
+      "price": 59000
+    },
+    {
+      "id": 7,
+      "name": "iPhone 7",
+      "description": "nventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. ",
+      "imageUrl": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-xr-blue-select-201809?wid=470&hei=556&fmt=png-alpha&.v=1565209264208",
+      "price": 42000
+    },
+    {
+      "id": 8,
+      "name": "iPhone 6",
+      "description": "nventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. ",
+      "imageUrl": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-xr-blue-select-201809?wid=470&hei=556&fmt=png-alpha&.v=1565209264208",
+      "price": 40000
+    },
+    {
+      "id": 9,
+      "name": "iPhone XS Max",
+      "description": "nventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. ",
+      "imageUrl": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-xr-blue-select-201809?wid=470&hei=556&fmt=png-alpha&.v=1565209264208",
+      "price": 45000
+    },
+    {
+      "id": 10,
+      "name": "iPhone 8 Plus",
+      "description": "nventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. ",
+      "imageUrl": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-xr-blue-select-201809?wid=470&hei=556&fmt=png-alpha&.v=1565209264208",
+      "price": 45999
+    },
+    {
+      "id": 11,
+      "name": "iPhone 6S",
+      "description": "nventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. ",
+      "imageUrl": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-xr-blue-select-201809?wid=470&hei=556&fmt=png-alpha&.v=1565209264208",
+      "price": 44999
+    },
+    {
+      "id": 12,
+      "name": "iPhone 7 Plus",
+      "description": "nventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. ",
+      "imageUrl": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-xr-blue-select-201809?wid=470&hei=556&fmt=png-alpha&.v=1565209264208",
+      "price": 54999
+    }
+  ],
+  "wishlist": [],
+  "cart": [
+    {
+      "product": {
+        "id": 3,
+        "name": "iPhone 11",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "imageUrl": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone11-red-select-2019_GEO_EMEA?wid=470&hei=556&fmt=png-alpha&.v=1567021767076",
+        "price": 45000
+      },
+      "id": 1
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "iPhone SE",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "imageUrl": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-xr-blue-select-201809?wid=470&hei=556&fmt=png-alpha&.v=1565209264208",
+        "price": 44600
+      },
+      "id": 2
+    },
+    {
+      "product": {
+        "id": 6,
+        "name": "iPhone 12 Mini",
+        "description": "nventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. ",
+        "imageUrl": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-12-mini-red-select-2020?wid=470&hei=556&fmt=png-alpha&.v=1601830931000",
+        "price": 59000
+      },
+      "id": 3
+    },
+    {
+      "product": {
+        "id": 5,
+        "name": "iPhone 12 Pro",
+        "description": "nventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. ",
+        "imageUrl": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-12-pro-family-hero?wid=463&amp;hei=556&amp;fmt=jpeg&amp;qlt=95&amp;op_usm=0.5,0.5&amp;.v=1602088412000",
+        "price": 69000
+      },
+      "id": 4
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "iPhone XR",
+        "description": "Liquid Retina HD display 6.1-inch | 12MP Wide camera |Enabled by TrueDepth camera for facial recognition |",
+        "imageUrl": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-xr-blue-select-201809?wid=470&hei=556&fmt=png-alpha&.v=1565209264208",
+        "price": 41000
+      },
+      "id": 5
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "iPhone SE",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "imageUrl": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-xr-blue-select-201809?wid=470&hei=556&fmt=png-alpha&.v=1565209264208",
+        "price": 44600
+      },
+      "id": 6
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "iPhone SE",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "imageUrl": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-xr-blue-select-201809?wid=470&hei=556&fmt=png-alpha&.v=1565209264208",
+        "price": 44600
+      },
+      "id": 7
+    },
+    {
+      "product": {
+        "id": 12,
+        "name": "iPhone 7 Plus",
+        "description": "nventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. ",
+        "imageUrl": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-xr-blue-select-201809?wid=470&hei=556&fmt=png-alpha&.v=1565209264208",
+        "price": 54999
+      },
+      "id": 8
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

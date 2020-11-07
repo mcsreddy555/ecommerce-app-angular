@@ -1,0 +1,54 @@
+{
+    "redminote6pro":{
+        "id":1,
+        "image":"/images/redmi/mi-redmi-note-6-pro.png",
+        "name":"Redmi Note 6 Pro",
+        "features":[
+            "8 GB RAM | 128 GB ROM",
+            "16.21 cm (6.38 inch) Full HD+ Display",
+            "48MP + 8MP + 2MP | 32MP Front Camera",
+            "4500 mAh Li-ion Battery",
+            "Qualcomm Snapdragon 712 AIE Processor",
+            "22.5 W Vivo Flash Charge"
+        ]
+    },
+    "redminote7pro":{
+        "id":1,
+        "image":"/images/redmi/mi-redmi-note-7-pro.png",
+        "name":"Redmi Note 6 Pro",
+        "features":[
+            "8 GB RAM | 128 GB ROM",
+            "16.21 cm (6.38 inch) Full HD+ Display",
+            "48MP + 8MP + 2MP | 32MP Front Camera",
+            "4500 mAh Li-ion Battery",
+            "Qualcomm Snapdragon 712 AIE Processor",
+            "22.5 W Vivo Flash Charge"
+        ]
+    },
+    "redminote8pro":{
+        "id":1,
+        "image":"/images/redmi/redmi-note-8-pro.png",
+        "name":"Redmi Note 6 Pro",
+        "features":[
+            "8 GB RAM | 128 GB ROM",
+            "16.21 cm (6.38 inch) Full HD+ Display",
+            "48MP + 8MP + 2MP | 32MP Front Camera",
+            "4500 mAh Li-ion Battery",
+            "Qualcomm Snapdragon 712 AIE Processor",
+            "22.5 W Vivo Flash Charge"
+        ]
+    },
+    "redminote9pro":{
+        "id":1,
+        "image":"/images/redmi/mi-redmi-note-9-pro.png",
+        "name":"Redmi Note 6 Pro",
+        "features":[
+            "8 GB RAM | 128 GB ROM",
+            "16.21 cm (6.38 inch) Full HD+ Display",
+            "48MP + 8MP + 2MP | 32MP Front Camera",
+            "4500 mAh Li-ion Battery",
+            "Qualcomm Snapdragon 712 AIE Processor",
+            "22.5 W Vivo Flash Charge"
+        ]
+    }
+}

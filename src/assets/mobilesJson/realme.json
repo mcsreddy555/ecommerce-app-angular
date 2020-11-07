@@ -1,0 +1,55 @@
+{
+    "realme6pro":{
+        "id":1,
+        "image":"/images/realme/realme-6-pro.png",
+        "name":"Realme 6Pro",
+        "features":[
+            "8 GB RAM | 128 GB ROM",
+            "16.21 cm (6.38 inch) Full HD+ Display",
+            "48MP + 8MP + 2MP | 32MP Front Camera",
+            "4500 mAh Li-ion Battery",
+            "Qualcomm Snapdragon 712 AIE Processor",
+            "22.5 W Vivo Flash Charge"
+        ]
+    },
+    "realme6":{
+        "id":1,
+        "image":"/images/realme/realme-6.png",
+        "name":"Realme 6",
+        "features":[
+            "8 GB RAM | 128 GB ROM",
+            "16.21 cm (6.38 inch) Full HD+ Display",
+            "48MP + 8MP + 2MP | 32MP Front Camera",
+            "4500 mAh Li-ion Battery",
+            "Qualcomm Snapdragon 712 AIE Processor",
+            "22.5 W Vivo Flash Charge"
+        ]
+    },
+    "realme6i":{
+        "id":1,
+        "image":"/images/realme/realme-6i.png",
+        "name":"Realme 6i",
+        "features":[
+            "8 GB RAM | 128 GB ROM",
+            "16.21 cm (6.38 inch) Full HD+ Display",
+            "48MP + 8MP + 2MP | 32MP Front Camera",
+            "4500 mAh Li-ion Battery",
+            "Qualcomm Snapdragon 712 AIE Processor",
+            "22.5 W Vivo Flash Charge"
+        ]
+    },
+    "realme7":{
+        "id":1,
+        "image":"/images/realme/realme-7.png",
+        "name":"Realme 7",
+        "features":[
+            "8 GB RAM | 128 GB ROM",
+            "16.21 cm (6.38 inch) Full HD+ Display",
+            "48MP + 8MP + 2MP | 32MP Front Camera",
+            "4500 mAh Li-ion Battery",
+            "Qualcomm Snapdragon 712 AIE Processor",
+            "22.5 W Vivo Flash Charge"
+        ]
+    }
+
+}

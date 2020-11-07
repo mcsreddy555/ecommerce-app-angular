@@ -1,0 +1,41 @@
+{
+    "oppo-a5s":{
+        "id":1,
+        "image":"/images/oppo/oppo-a5s.png",
+        "name":"Oppo A5S",
+        "features":[
+            "8 GB RAM | 128 GB ROM",
+            "16.21 cm (6.38 inch) Full HD+ Display",
+            "48MP + 8MP + 2MP | 32MP Front Camera",
+            "4500 mAh Li-ion Battery",
+            "Qualcomm Snapdragon 712 AIE Processor",
+            "22.5 W Vivo Flash Charge"
+        ]
+    },
+    "oppo-a31":{
+        "id":1,
+        "image":"/images/oppo/oppo-a31.png",
+        "name":"Oppo A31",
+        "features":[
+            "8 GB RAM | 128 GB ROM",
+            "16.21 cm (6.38 inch) Full HD+ Display",
+            "48MP + 8MP + 2MP | 32MP Front Camera",
+            "4500 mAh Li-ion Battery",
+            "Qualcomm Snapdragon 712 AIE Processor",
+            "22.5 W Vivo Flash Charge"
+        ]
+    },
+    "oppof15":{
+        "id":1,
+        "image":"/images/oppo/oppo-f15.png",
+        "name":"Oppo F15",
+        "features":[
+            "8 GB RAM | 128 GB ROM",
+            "16.21 cm (6.38 inch) Full HD+ Display",
+            "48MP + 8MP + 2MP | 32MP Front Camera",
+            "4500 mAh Li-ion Battery",
+            "Qualcomm Snapdragon 712 AIE Processor",
+            "22.5 W Vivo Flash Charge"
+        ]
+    }
+}
